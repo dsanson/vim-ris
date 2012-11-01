@@ -1,0 +1,7 @@
+2006-07-09  David Nebauer  <david@nebauer.org>
+
+	* configure.ac: plugin directory changed to .../vim64; bump to version 1.2
+	
+2005-07-06  David Nebauer  <david@nebauer.org>
+
+	* Initial packaging.

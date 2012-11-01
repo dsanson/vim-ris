@@ -1,0 +1,12 @@
+This is a mirror of vim-ris, repackaged for easy use with pathogen, vundle, and the like.
+
+The original is available here: <http://refdb.sourceforge.net/vim.html>
+
+vim-ris README
+==============
+
+vim-ris provides a vim plugin and syntax for RIS file editing.
+
+Dbn was written for a Debian Sarge/testing system.  It will likely work without problem on other unices.  I suspect it will require significant debugging/rewriting for Windows use.
+
+See the installed help after installation.
